@@ -1,1 +1,1 @@
-secret_scanning_sample_token
+secret_scanning_sample_token=foo
